@@ -27,14 +27,16 @@
 
 > resume emphasizer
 
+> personal blog w. notion api
+
 
 ## More info :sunglasses:
 
 > [<img src="https://img.shields.io/badge/-D0A6DB?style=social&logo=instagram&logoColor=black"/>](https://www.instagram.com/k1mseongjae/)
 
-> <img src="https://img.shields.io/badge/-D0A6DB?style=social&logo=blogger&logoColor=black"/> tbc..
+> <img src="https://img.shields.io/badge/-D0A6DB?style=social&logo=blogger&logoColor=black"/>(https://k1mseongjae.com/)
 
-> [<img src="https://img.shields.io/badge/-D0A6DB?style=social&logo=gmail&logoColor=black"/>](k1mseongjae.com@gmail.com)
+> [<img src="https://img.shields.io/badge/-D0A6DB?style=social&logo=gmail&logoColor=black"/>](newid01@cau.ac.kr)
 
 
 
@@ -43,7 +45,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1mseongjae&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=newid01)](https://solved.ac/newid01)<br/>
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=newid01)](https://solved.ac/newid01)<br/>-->
 
 
 <!--
