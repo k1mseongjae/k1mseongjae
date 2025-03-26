@@ -34,7 +34,7 @@
 
 > [<img src="https://img.shields.io/badge/-D0A6DB?style=social&logo=instagram&logoColor=black"/>](https://www.instagram.com/k1mseongjae/)
 
-> <img src="https://img.shields.io/badge/-D0A6DB?style=social&logo=blogger&logoColor=black"/>(https://k1mseongjae.com/)
+> [<img src="https://img.shields.io/badge/-D0A6DB?style=social&logo=blogger&logoColor=black"/>](https://k1mseongjae.com/)
 
 > [<img src="https://img.shields.io/badge/-D0A6DB?style=social&logo=gmail&logoColor=black"/>](newid01@cau.ac.kr)
 
