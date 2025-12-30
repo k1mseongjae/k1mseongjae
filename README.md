@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=k1mseongjae.com&fontSize=40&fontColor=DFF3F3&animation=twinkling&fontAlign=80&fontAlignY=35)
 
+<!--
 </div>
 
 ## Final academic background :open_mouth:
@@ -45,10 +46,11 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1mseongjae&show_icons=true&theme=radical)
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=newid01)](https://solved.ac/newid01)<br/>-->
+[//] <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=newid01)](https://solved.ac/newid01)<br/>-->
 
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mseongjae&layout=compact)](https://github.com/k1mseongjae/github-readme-stats)
+[//] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mseongjae&layout=compact)](https://github.com/k1mseongjae/github-readme-stats)
 
 -->
+
